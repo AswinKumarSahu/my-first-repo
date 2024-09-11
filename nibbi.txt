@@ -1,3 +1,3 @@
 #!/bin/bash
 this is nibbi
-
+jo bhi ho jaye bs tu haar na maniyo, tu try kar ho jaye ga
