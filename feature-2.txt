@@ -1,5 +1,2 @@
 #!/bin/bash
 this is feature 2.
-some more work
-did some more work, more wisely in 2nd time
-
